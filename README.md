@@ -1,8 +1,8 @@
 # Embedded Systems Fundamentals with Arm Cortex-M based Microcontrollers
 This textbook by author Alexander G. Dean gives students an understanding of the most important topics in embedded systems design using a coherent, compelling and hands-on approach. (available as PDF)
 
-## [Download 1st Edition (FRDM-KL25Z) here](https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers/blob/main/Fundamentals%20of%20SoC_textbook.pdf)
-## [Download 2nd Edition (Nucleo-F091RC) here](https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers/blob/main/Fundamentals%20of%20SoC_textbook.pdf)
+## [Download 1st Edition (FRDM-KL25Z) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/main/Embedded%20Systems%20Fundamentals%201st%20ed_FRDM-KL25Z.pdf)
+## [Download 2nd Edition (Nucleo-F091RC) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/main/Embedded%20Systems%20Fundamentals%202nd%20ed_Nucleo-F091RC.pdf)
 
 ## About the 1st Edition
 This textbook introduces students to creating embedded systems using the Arm® Cortex®-M0+ CPU-based Kinetis®
