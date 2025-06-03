@@ -1,7 +1,7 @@
 # Embedded Systems Fundamentals with Arm Cortex-M based Microcontrollers
 This textbook by author Alexander G. Dean gives students an understanding of the most important topics in embedded systems design using a coherent, compelling and hands-on approach. (available as PDF)
 
-## [Download 1st Edition (FRDM-KL25Z) here](Embedded Systems Fundamentals 1st Ed Color FRDM-KL25Z.pdf)
+## [Download 1st Edition (FRDM-KL25Z) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/d1b3bc30dfaecbb904409aedac99b40e15bd8b99/Embedded%20Systems%20Fundamentals%201st%20Ed%20Color%20FRDM-KL25Z.pdf)
 ## [Download 2nd Edition (Nucleo-F091RC) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/main/Embedded%20Systems%20Fundamentals%202nd%20ed_Nucleo-F091RC.pdf)
 
 ## About the 1st Edition
