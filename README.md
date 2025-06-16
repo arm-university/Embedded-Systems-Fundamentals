@@ -1,8 +1,18 @@
 # Embedded Systems Fundamentals with Arm Cortex-M based Microcontrollers
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download 2nd Edition (Nucleo-F091RC)](https://github.com/arm-university/Embedded-Systems-Fundamentals/releases/download/v2.0.0.ed2/Embedded.Systems.Fundamentals.2nd.Ed.Nucleo-F091RC.pdf)
+### [Click here to download 1st Edition (FRDM-KL25Z)](https://github.com/arm-university/Embedded-Systems-Fundamentals/releases/download/v1.0.0.ed1/Embedded.Systems.Fundamentals.1st.Ed.FRDM-KL25Z.pdf)
+
+## About
 This textbook by author Alexander G. Dean gives students an understanding of the most important topics in embedded systems design using a coherent, compelling and hands-on approach. (available as PDF)
 
-## [Download 1st Edition (FRDM-KL25Z) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/d1b3bc30dfaecbb904409aedac99b40e15bd8b99/Embedded%20Systems%20Fundamentals%201st%20Ed%20Color%20FRDM-KL25Z.pdf)
-## [Download 2nd Edition (Nucleo-F091RC) here](https://github.com/arm-university/Embedded-Systems-Fundamentals/blob/main/Embedded%20Systems%20Fundamentals%202nd%20ed_Nucleo-F091RC.pdf)
+## About the 2nd Edition
+Now in its 2nd edition, this textbook has been updated on a new development board from STMicroelectronics – the Arm 
+Cortex-M0+ based Nucleo-F091RC. Designed to be used in a one- or two-semester introductory course on embedded 
+systems, the textbook covers fundamental topics including the CPU, interrupt systems, peripherals, serial communication and 
+multi-tasking. Software examples in this textbook are written in C and the free version of Arm’s Keil MDK-ARM integrated 
+development environment is used throughout the materials.
 
 ## About the 1st Edition
 This textbook introduces students to creating embedded systems using the Arm® Cortex®-M0+ CPU-based Kinetis®
@@ -12,13 +22,6 @@ throughout as critical to creating cost-effective embedded systems. This book gi
 multitasking on the CPU, with the goals of improving responsiveness and software modularity while reducing CPU overhead. 
 The interplay of interrupts, peripherals and schedulers is examined.
 For use in ECE, EE, and CS departments. The book targets the low-cost FRDM-KL25Z MCU development board.
-
-## About the 2nd Edition
-Now in its 2nd edition, this textbook has been updated on a new development board from STMicroelectronics – the Arm 
-Cortex-M0+ based Nucleo-F091RC. Designed to be used in a one- or two-semester introductory course on embedded 
-systems, the textbook covers fundamental topics including the CPU, interrupt systems, peripherals, serial communication and 
-multi-tasking. Software examples in this textbook are written in C and the free version of Arm’s Keil MDK-ARM integrated 
-development environment is used throughout the materials.
 
 ## Table of Contents:
 1. Introduction
